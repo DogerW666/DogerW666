@@ -48,8 +48,6 @@
 
 ### 02 / Experience
 
-<p><samp>Career path &nbsp; EA → Bilibili → Alibaba</samp></p>
-
 <table>
   <tr>
     <td><b>Alibaba</b> &nbsp; <img src="./assets/compact-alibaba.svg" alt="Alibaba logo" width="88" height="26" align="absmiddle"></td>
