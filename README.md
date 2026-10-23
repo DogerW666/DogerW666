@@ -10,8 +10,6 @@
   <a href="mailto:wangdaoshuai.wds@alibaba-inc.com"><b>GET IN TOUCH</b></a>
 </p>
 
-<br>
-
 I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engineer working across **distributed data systems, cloud-native platforms, and AI infrastructure**. My experience includes **Alibaba** and **Bilibili**.
 
 ### 01 / Engineering stack
@@ -19,38 +17,33 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/logo-daft.svg" alt="Daft logo" width="112" height="56"></p>
-      <h3><a href="https://github.com/Eventual-Inc/Daft">Daft</a></h3>
-      <p><code>DATA ENGINE</code></p>
-      <p>Data processing for AI and multimodal workloads.</p>
+      <img src="./assets/compact-daft.svg" alt="Daft logo" width="32" height="32" align="right">
+      <b><a href="https://github.com/Eventual-Inc/Daft">Daft</a></b><br>
+      AI and multimodal data processing.
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/logo-spark.svg" alt="Apache Spark logo" width="112" height="56"></p>
-      <h3><a href="https://github.com/apache/spark">Apache Spark</a></h3>
-      <p><code>DISTRIBUTED ANALYTICS</code></p>
-      <p>Large-scale data processing and distributed SQL.</p>
+      <img src="./assets/compact-spark.svg" alt="Apache Spark logo" width="56" height="28" align="right">
+      <b><a href="https://github.com/apache/spark">Apache Spark</a></b><br>
+      Distributed SQL and large-scale analytics.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/logo-ray.svg" alt="Ray logo" width="112" height="56"></p>
-      <h3><a href="https://github.com/ray-project/ray">Ray</a></h3>
-      <p><code>DISTRIBUTED COMPUTE</code></p>
-      <p>Distributed execution and infrastructure for AI.</p>
+      <img src="./assets/compact-ray.svg" alt="Ray logo" width="72" height="32" align="right">
+      <b><a href="https://github.com/ray-project/ray">Ray</a></b><br>
+      Distributed execution for AI workloads.
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/logo-kubernetes.svg" alt="Kubernetes logo" width="112" height="56"></p>
-      <h3><a href="https://github.com/kubernetes/kubernetes">Kubernetes</a></h3>
-      <p><code>CLOUD-NATIVE INFRASTRUCTURE</code></p>
-      <p>Container orchestration and cluster infrastructure.</p>
+      <img src="./assets/compact-kubernetes.svg" alt="Kubernetes logo" width="32" height="32" align="right">
+      <b><a href="https://github.com/kubernetes/kubernetes">Kubernetes</a></b><br>
+      Container orchestration and cluster management.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p><img src="./assets/logo-ai-infra.svg" alt="AI infrastructure chip icon" width="112" height="56"></p>
-      <h3>AI Infrastructure</h3>
-      <p><code>AI INFRA</code></p>
-      <p>Infrastructure for AI workloads, connecting data processing, distributed compute, and cluster orchestration.</p>
+      <img src="./assets/compact-ai-infra.svg" alt="AI infrastructure chip icon" width="32" height="32" align="right">
+      <b>AI Infrastructure</b><br>
+      Data, compute, and cluster infrastructure for AI.
     </td>
   </tr>
 </table>
@@ -60,14 +53,14 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/logo-alibaba.svg" alt="Alibaba logo" width="160" height="80"></p>
-      <h3>Alibaba</h3>
-      <p><b>Senior Software Engineer</b></p>
+      <img src="./assets/compact-alibaba.svg" alt="Alibaba logo" width="88" height="26" align="right">
+      <b>Alibaba</b><br>
+      Senior Software Engineer
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/logo-bilibili.svg" alt="Bilibili logo" width="160" height="80"></p>
-      <h3>Bilibili</h3>
-      <p><b>Software Engineer</b></p>
+      <img src="./assets/compact-bilibili.svg" alt="Bilibili logo" width="73" height="32" align="right">
+      <b>Bilibili</b><br>
+      Software Engineer
     </td>
   </tr>
 </table>
@@ -76,18 +69,27 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
 
 <table>
   <tr>
-    <td width="120" align="center" valign="middle">
-      <img src="./assets/logo-sjtu.svg" alt="Shanghai Jiao Tong University seal" width="96" height="96">
-    </td>
     <td valign="middle">
-      <h3>Shanghai Jiao Tong University</h3>
-      <p><b>Master’s Degree</b> &nbsp;·&nbsp; <samp>CLASS OF 2023</samp></p>
-      <p>School of Electronic Information and Electrical Engineering</p>
+      <img src="./assets/compact-sjtu.svg" alt="Shanghai Jiao Tong University seal" width="64" height="64" align="right">
+      <b>Shanghai Jiao Tong University</b><br>
+      <b>Master’s Degree</b> &nbsp;·&nbsp; <samp>CLASS OF 2023</samp><br>
+      School of Electronic Information and Electrical Engineering
     </td>
   </tr>
 </table>
 
 ### A little more about me
 
-- **Languages I’ve worked with:** Python, Rust, Go, Java, Scala, C, C++, and C#.
-- **Email:** [wangdaoshuai.wds@alibaba-inc.com](mailto:wangdaoshuai.wds@alibaba-inc.com) · [1150618528@qq.com](mailto:1150618528@qq.com)
+<p>
+  <b>Languages</b> &nbsp;
+  <img src="./assets/language-python.svg" alt="Python" height="24" align="absmiddle">
+  <img src="./assets/language-rust.svg" alt="Rust" height="24" align="absmiddle">
+  <img src="./assets/language-go.svg" alt="Go" height="24" align="absmiddle">
+  <img src="./assets/language-java.svg" alt="Java" height="24" align="absmiddle">
+  <img src="./assets/language-scala.svg" alt="Scala" height="24" align="absmiddle">
+  <img src="./assets/language-c.svg" alt="C" height="24" align="absmiddle">
+  <img src="./assets/language-cpp.svg" alt="C++" height="24" align="absmiddle">
+  <img src="./assets/language-csharp.svg" alt="C#" height="24" align="absmiddle">
+</p>
+
+**Email:** [wangdaoshuai.wds@alibaba-inc.com](mailto:wangdaoshuai.wds@alibaba-inc.com) · [1150618528@qq.com](mailto:1150618528@qq.com)

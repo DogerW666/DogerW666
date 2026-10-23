@@ -13,3 +13,5 @@ Brand marks identify education, professional experience, and technologies. They 
 | Kubernetes | [Kubernetes repository](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg) | Original vector geometry; intrinsic viewBox added for scaling. |
 
 The AI Infrastructure chip icon, animated network, backgrounds, and layout are custom illustrations, not third-party brand marks. SVG plates embed their images locally and do not depend on external image services.
+
+Language badges use [Shields.io](https://shields.io/) flat styling and white [Simple Icons](https://simpleicons.org/) marks, matching the reference profile. Badges are saved locally. C# uses the [Simple Icons 11.15.0 vector](https://github.com/simple-icons/simple-icons/blob/11.15.0/icons/csharp.svg) because the current Shields built-in icon is unavailable.
