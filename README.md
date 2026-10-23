@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Wang Daoshuai — Shanghai Jiao Tong University alumnus. Daft, Apache Spark, Ray, Kubernetes, and AI Infrastructure." src="./assets/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-sjtu.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-sjtu.svg">
+  <img alt="Wang Daoshuai — Shanghai Jiao Tong University alumnus. Daft, Apache Spark, Ray, Kubernetes, and AI Infrastructure." src="./assets/hero-dark-sjtu.svg" width="100%">
 </picture>
 
 <p align="center">
