@@ -52,16 +52,12 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/compact-alibaba.svg" alt="Alibaba logo" width="88" height="26" align="right">
-      <b>Alibaba</b><br>
-      Senior Software Engineer
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/compact-bilibili.svg" alt="Bilibili logo" width="73" height="32" align="right">
-      <b>Bilibili</b><br>
-      Software Engineer
-    </td>
+    <td><b>Alibaba</b> &nbsp; <img src="./assets/compact-alibaba.svg" alt="Alibaba logo" width="88" height="26" align="absmiddle"></td>
+    <td>Senior Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>Bilibili</b> &nbsp; <img src="./assets/compact-bilibili.svg" alt="Bilibili logo" width="73" height="32" align="absmiddle"></td>
+    <td>Software Engineer</td>
   </tr>
 </table>
 
