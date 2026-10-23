@@ -10,8 +10,6 @@
   <a href="mailto:wangdaoshuai.wds@alibaba-inc.com"><b>GET IN TOUCH</b></a>
 </p>
 
-I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engineer working across **distributed data systems, cloud-native platforms, and AI infrastructure**. My experience includes **Alibaba** and **Bilibili**.
-
 ### 01 / Engineering stack
 
 <table>
@@ -50,6 +48,8 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
 
 ### 02 / Experience
 
+<p><samp>Career path &nbsp; EA → Bilibili → Alibaba</samp></p>
+
 <table>
   <tr>
     <td><b>Alibaba</b> &nbsp; <img src="./assets/compact-alibaba.svg" alt="Alibaba logo" width="88" height="26" align="absmiddle"></td>
@@ -58,6 +58,10 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
   <tr>
     <td><b>Bilibili</b> &nbsp; <img src="./assets/compact-bilibili.svg" alt="Bilibili logo" width="73" height="32" align="absmiddle"></td>
     <td>Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>Electronic Arts (EA)</b> &nbsp; <img src="./assets/compact-ea.svg" alt="Electronic Arts logo" width="32" height="32" align="absmiddle"></td>
+    <td>Intern</td>
   </tr>
 </table>
 
@@ -88,4 +92,8 @@ I’m **DogerW**, a **Shanghai Jiao Tong University alumnus** and software engin
   <img src="./assets/language-csharp.svg" alt="C#" height="24" align="absmiddle">
 </p>
 
-**Email:** [wangdaoshuai.wds@alibaba-inc.com](mailto:wangdaoshuai.wds@alibaba-inc.com) · [1150618528@qq.com](mailto:1150618528@qq.com)
+<p>
+  <b>Email</b> &nbsp;
+  <a href="mailto:wangdaoshuai.wds@alibaba-inc.com" title="wangdaoshuai.wds@alibaba-inc.com"><img src="./assets/contact-work.svg" alt="Work email — wangdaoshuai.wds@alibaba-inc.com" height="30" align="absmiddle"></a>
+  <a href="mailto:1150618528@qq.com" title="1150618528@qq.com"><img src="./assets/contact-personal.svg" alt="Personal email — 1150618528@qq.com" height="30" align="absmiddle"></a>
+</p>
