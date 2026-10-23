@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="80" viewBox="0 0 160 80" role="img" aria-label="AI infrastructure chip icon">
+<rect x="1" y="1" width="158" height="78" rx="14" fill="#effcfa" stroke="#b0ddd7"/>
+<g fill="none" stroke="#087f83" stroke-width="2" stroke-linecap="round"><rect x="59" y="19" width="42" height="42" rx="9"/>
+<path d="M68 12v7m12-7v7m12-7v7M68 61v7m12-7v7m12-7v7M52 28h7m-7 12h7m-7 12h7m42-24h7m-7 12h7m-7 12h7"/></g>
+<text x="80" y="46" text-anchor="middle" fill="#087f83" font-family="Consolas,monospace" font-size="19" font-weight="700">AI</text></svg>

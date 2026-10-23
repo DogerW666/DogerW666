@@ -1,0 +1,12 @@
+{
+  "ray.svg": "https://raw.githubusercontent.com/ray-project/ray/master/doc/source/_static/img/ray_logo.svg",
+  "ray-symbol-candidate.svg": "https://raw.githubusercontent.com/ray-project/ray/master/doc/source/ray-overview/images/ray_svg_logo.svg",
+  "kubernetes.svg": "https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg",
+  "spark.svg": "https://raw.githubusercontent.com/apache/spark/master/core/src/main/resources/org/apache/spark/ui/static/spark-logo.svg",
+  "spark-reverse.svg": "https://raw.githubusercontent.com/apache/spark/master/core/src/main/resources/org/apache/spark/ui/static/spark-logo-rev.svg",
+  "daft-favicon.png": "https://raw.githubusercontent.com/Eventual-Inc/Daft/main/docs/img/favicon.png",
+  "daft-home.html": "https://www.daft.ai/",
+  "daft.svg": "https://www.daft.ai/icon.svg",
+  "daft-wordmark.png": "https://raw.githubusercontent.com/Eventual-Inc/Daft/main/docs/img/daft.png",
+  "spark-official.png": "https://spark.apache.org/images/spark-logo-trademark.png"
+}

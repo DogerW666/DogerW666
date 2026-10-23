@@ -1,0 +1,29 @@
+{
+  "sjtu-seal.png": {
+    "source_page": "https://vi.sjtu.edu.cn/index.php/articles/bulletin/13",
+    "asset_url": "https://vi.sjtu.edu.cn/uploads/files/caf2f5045c47308250fab3812dfe2003-6896b91594f238b24e67696224948251.png",
+    "format": "PNG RGBA 2805x2806",
+    "derivation": "Unmodified official seal. Source HTML uses backslash separators; normalized to slash for HTTP download.",
+    "guidelines": "https://vi.sjtu.edu.cn/index.php/articles/base/1"
+  },
+  "alibaba-group.png": {
+    "source_page": "https://home.alibabagroup.com/en-US/resource-logos",
+    "asset_url": "https://ali-home-data.oss-cn-hangzhou.aliyuncs.com/ecms-files/886024452/ae99cd49-2667-464e-b9db-b39cee0126e1.png",
+    "format": "PNG RGBA 2072x266",
+    "derivation": "Unmodified official English Alibaba Group logo download.",
+    "usage_note": "Media page limits use to editorial use by accredited media, requires Source: www.alibabagroup.com, allows proportional resizing, and forbids other alteration."
+  },
+  "bilibili-wordmark.svg": {
+    "source_page": "https://ir.bilibili.com/",
+    "asset_url": "https://ir.bilibili.com/media/mwvbaepv/logoenblue.svg",
+    "format": "SVG transparent, viewBox 0 0 90 40",
+    "derivation": "Extracted only brand paths (zero-based paths 11-26) from official Investor Home header. Geometry, fill rule, and original #0cb6f2 fill preserved; excluded Investor Home text and set viewBox to standalone mark. Original preserved in bilibili.svg."
+  },
+  "bilibili-wordmark.png": {
+    "source_page": "https://jobs.bilibili.com/",
+    "source_js": "https://s1.hdslb.com/bfs/static/zhaopin-toc/assets/js/app.b102573e.js",
+    "asset_url": "https://s1.hdslb.com/bfs/static/zhaopin-toc/assets/img/logo-bili-red.d4d5f9e4.png",
+    "format": "PNG RGBA 212x94 pink",
+    "derivation": "Unmodified standalone pink wordmark used by official jobs-site footer."
+  }
+}
