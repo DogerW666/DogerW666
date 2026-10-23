@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-dogerw.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-dogerw.svg">
-  <img alt="DogerW — Shanghai Jiao Tong University alumnus. Daft, Apache Spark, Ray, Kubernetes, and AI Infrastructure." src="./assets/hero-dark-dogerw.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-minimal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-minimal.svg">
+  <img alt="DogerW — Data. Compute. Infrastructure. Daft, Apache Spark, Ray, Kubernetes, and AI Infrastructure." src="./assets/hero-dark-minimal.svg" width="100%">
 </picture>
 
 <p align="center">
