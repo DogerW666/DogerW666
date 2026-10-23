@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
   <title id="title">Wang Daoshuai — Distributed Data Systems</title>
-  <desc id="desc">Data. Compute. Infrastructure. Daft, Apache Spark, Ray, and Kubernetes. An animated network of connected compute nodes.</desc>
+  <desc id="desc">Shanghai Jiao Tong University alumnus. Data. Compute. Infrastructure. Daft, Apache Spark, Ray, Kubernetes, and AI Infrastructure. An animated network of connected compute nodes.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#b4cedd" stroke-width=".6" opacity=".48"/></pattern>
     <radialGradient id="halo"><stop stop-color="#c7edf0" stop-opacity=".6"/><stop offset="1" stop-color="#f4f8fc" stop-opacity="0"/></radialGradient>
@@ -25,8 +25,9 @@
     <text class="mono" x="1138" y="81" fill="#506780" text-anchor="end" font-size="12" letter-spacing="1.7">DISTRIBUTED SYSTEMS</text>
     <text class="sans" x="55" y="193" fill="#101f36" font-weight="750" font-size="82" letter-spacing="-3">WANG</text>
     <text class="sans" x="55" y="278" fill="#101f36" font-weight="750" font-size="82" letter-spacing="-3">DAOSHUAI<tspan fill="#087f83">.</tspan></text>
-    <text class="sans" x="60" y="330" fill="#405b74" font-size="24" letter-spacing=".2">Data. Compute. Infrastructure.</text>
-    <text class="mono" x="60" y="374" fill="#506780" font-size="15">Daft / Apache Spark / Ray / Kubernetes</text>
+    <text class="sans" x="60" y="325" fill="#087f83" font-size="27" font-weight="650">Shanghai Jiao Tong University</text>
+    <text class="sans" x="60" y="359" fill="#405b74" font-size="21" letter-spacing=".2">Data. Compute. Infrastructure.</text>
+    <text class="mono" x="60" y="392" fill="#506780" font-size="14">Daft / Spark / Ray / Kubernetes / AI Infra</text>
     <path d="M60 421 H1140" stroke="#cbdde8"/>
     <circle cx="66" cy="456" r="4" fill="#087f83"/>
     <text class="mono" x="82" y="461" fill="#405b74" font-size="12.5" letter-spacing="1.2">@DogerW666</text>
@@ -45,7 +46,8 @@
       <circle class="packet" r="3"><animateMotion dur="5s" begin="-3s" repeatCount="indefinite" path="M931 253 V340 H789"/></circle>
     </g>
     <rect x="896" y="218" width="70" height="70" rx="16" fill="#ffffff" stroke="url(#edge)" stroke-width="1.5"/>
-    <path d="M918 238 L905 253 L918 268 M944 238 L957 253 L944 268 M935 235 L927 271" fill="none" stroke="#087f83" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="mono" x="931" y="248" fill="#087f83" text-anchor="middle" font-size="22" font-weight="700">AI</text>
+    <text class="mono" x="931" y="270" fill="#087f83" text-anchor="middle" font-size="12" letter-spacing="1.5">INFRA</text>
     <g class="mono" font-size="16" font-weight="600" text-anchor="middle">
       <rect x="724" y="141" width="130" height="50" rx="10" fill="#ffffff" stroke="#cbdde8"/>
       <text x="789" y="172" fill="#101f36">Daft</text>
